@@ -78,7 +78,7 @@ val newReview = fc<NewReviewProps> { props ->
                             div("tooltip-arrow") {}
                             div("tooltip-inner") {
                                 +"Learn how to provide constructive map feedback "
-                                a("https://bsaber.com/how-to-write-constructive-map-reviews/", target = "_blank") {
+                                a("https://bsaber.info/how-to-write-constructive-map-reviews/", target = "_blank") {
                                     +"here"
                                 }
                                 +"."
